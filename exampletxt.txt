@@ -1,0 +1,2 @@
+This is diff command
+I want to change this
